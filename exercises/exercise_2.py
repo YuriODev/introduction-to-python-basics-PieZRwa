@@ -4,5 +4,7 @@ def nextEven(n):
   print(even)
   return even
 
+nextEven(7)
+nextEven(10)
 nextEven(11)
 # Your solution comes here
